@@ -1,7 +1,7 @@
 package com.company;
 import java.util.ArrayList;
 
-public class Customer extends Person {
+public class Customer extends Account {
     private int customer_ID;
     private ArrayList<Product> shoppingCart = new ArrayList<>();
 

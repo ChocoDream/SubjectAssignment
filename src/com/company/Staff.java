@@ -1,6 +1,6 @@
 package com.company;
 
-public abstract class Staff extends Person {
+public abstract class Staff extends Account {
     private int salary;
     private String name;
 
